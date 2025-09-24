@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 oh no this is messed up
 hi
+=======
+add two lines
+hello world
+>>>>>>> origin
